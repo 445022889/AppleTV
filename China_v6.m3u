@@ -86,7 +86,7 @@ rtp://239.3.1.168:8196
 #EXTINF:-1 channel-number="79" tvg-id="79" tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/ZhongGuoJiaoTong.png" group-title="IPv6数字",中国交通
 rtp://239.3.1.188:8001
 #EXTINF:-1 group-title="IPv6数字",中国天气
-rtp://239.3.1.165:8001
+rtp://239.3.1.108:8001
 #EXTINF:-1 group-title="IPv6数字",四海钓鱼
 rtp://239.3.1.164:8001
 #EXTINF:-1 channel-number="77" tvg-id="77" tvg-name="金鹰纪实高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan_JingYingJiShi.png" group-title="IPv6数字",金鹰纪实
